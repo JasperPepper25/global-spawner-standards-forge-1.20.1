@@ -57,7 +57,7 @@ jobs:
 
           [structure_filter]
             mode = "BLACKLIST"
-            structures = []
+            structures = ["minecraft:end_city"]
 
           [debug]
             logDecisions = true
